@@ -50,6 +50,16 @@ MaterialDesignSpinner is also [Carthage](https://github.com/Carthage/Carthage) c
 
     github "misterwell/MMMaterialDesignSpinner"
 
+MaterialDesignSpinner also supports [Swift Package Manager](https://swift.org/package-manager/):
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/misterwell/MMMaterialDesignSpinner.git", from: "0.2.5")
+]
+```
+
+Then add `"MMMaterialDesignSpinner"` to your target's dependencies.
+
 ## Author
 
 Mike Maxwell, mmaxwell@vertical.com
@@ -57,4 +67,3 @@ Mike Maxwell, mmaxwell@vertical.com
 ## License
 
 MMMaterialDesignSpinner is available under the MIT license. See the LICENSE file for more info.
-
